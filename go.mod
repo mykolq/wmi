@@ -1,4 +1,4 @@
-module github.com/yusufpapurcu/wmi
+module github.com/mykolq/wmi
 
 go 1.16
 
